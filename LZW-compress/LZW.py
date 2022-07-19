@@ -56,10 +56,6 @@ class LZW:
         return compressedColor
 
 
-    ''''''
-    ''' ---------------------- Class Helper Functions ---------------------- '''
-    ''''''
-
     '''
     Used For: Compression of Image
     Function: This function breaks down the image into the three constituting
